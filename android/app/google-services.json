@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439071964263",
+    "firebase_url": "https://woobox-flutter.firebaseio.com",
+    "project_id": "woobox-flutter",
+    "storage_bucket": "woobox-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439071964263:android:11add78f52fa5ed9f9a8c2",
+        "android_client_info": {
+          "package_name": "com.iqonic.flutter_woobox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439071964263-bi2mnoubfo6patv09qna6kujusnqu663.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJ9-1wxQfFMhnGhNPUa0HCeGlEMJCquY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439071964263-bi2mnoubfo6patv09qna6kujusnqu663.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
